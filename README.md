@@ -1,2 +1,5 @@
-# StudyCS
-[CS] CS 기본 지식을 공부하는 레포지토리
+# Computer Science 🥸
+### 📌 Network
+
+* [REST, REST API, RESTful](https://purple-log.tistory.com/31)
+
